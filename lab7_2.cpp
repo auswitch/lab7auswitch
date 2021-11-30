@@ -24,7 +24,7 @@ int main(){
 	  {
 	    result += P[i];
 	  }
-	   i++
+	   i++;
 	  }
 	    cout << "Result = " << result;
 	   }
